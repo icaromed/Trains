@@ -3,4 +3,4 @@ A GUI app with two animated trains(minecarts) that loop through their individual
 
 # That was the first project of the Discipline Concurrent Programming, so I've developed some skills:
 
-In this project i've learned how to use the javafx and how to create animations on it. Also have applied the fundaments of OOP learned on Programming and Algorithms II, as inheritance, composition, encapsulation etc. And i've had some fun creating the graphic elements of this project with GIMP.
+In this project i've learned how to use the javafx and how to create animations on it. Also have applied the fundaments of OOP learned on Programming and Algorithms II, as inheritance, composition, encapsulation etc. And i've had some fun creating the graphic elements for this project with GIMP.
